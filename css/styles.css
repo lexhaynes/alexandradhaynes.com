@@ -15,7 +15,7 @@ html, body {
 }
 
 
-a, a:visited {
+a {
 	text-decoration: none;
 	font-weight:300;
 	color:#000;
@@ -173,9 +173,6 @@ aside { font-style:italic; margin-top:1rem; }
 		color:#00ff00;
 		border-bottom:none;
 	}	
-	a.main-nav-item:visited {
-		color:#fff;
-	}
 
 	.main-nav-item.logo {
 		display:none;
